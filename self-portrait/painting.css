@@ -22,7 +22,6 @@
 #rectangle1{
     position: fixed;
     bottom: 10px;
-    right: 0;
     width: 150px;
     height: 150;
     border-radius: 50%;
