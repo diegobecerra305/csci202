@@ -12,3 +12,11 @@
     justify-items: center;
 }
 
+/* paint bucket */
+.rectangle{
+    width: 100px;
+    height: 200px;
+    background: grey;
+
+}
+
