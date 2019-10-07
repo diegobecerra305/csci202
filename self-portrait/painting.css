@@ -11,3 +11,26 @@
     grid-row-gap: 100px;
     justify-items: center;
 }
+
+.box {
+  -webkit-transition: 2s; 
+  transition: 1s;
+}
+
+.box:hover {
+    width: 300px;
+    height: 300px;
+    transform:rotate(720deg);
+    -ms-transform:rotate(762deg);
+    -webkit-transform:rotate(720deg);
+}
+
+
+/* Boxes */
+.box1 {
+    width: 10px;
+    height: 90px;
+    background-color: gray;
+    transform: rotate(-45deg);
+}
+
