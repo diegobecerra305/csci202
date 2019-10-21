@@ -1,0 +1,25 @@
+body { background-color:#FFFFFF;
+    color:#666666;
+    font-family:Verdana, Arial, sans-serif;
+}
+h1 { background-color:#00331a;   
+  color:#FFFFFF;
+  line-height: 200%;
+  font-family:Georgia, serif;
+ }
+nav { font-weight: bold, #90C7E3;
+    font-size: 1.25em;
+    word-spacing: 2em;
+ }
+h2 { background-color:rgb(51, 204, 133);
+  color:#006e2a;
+  font-family:Georgia, serif;
+ }
+ dt {
+    font-weight: #000033, bold;
+ }
+footer { color: #333333;
+       font-size: .70em;
+       text-align: center;
+       font-style: italic,;
+ }
